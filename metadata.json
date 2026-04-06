@@ -1,0 +1,8 @@
+{
+  "name": "Remix: IntellBuddy",
+  "description": "Next-generation AI learning hub featuring hyper-speed academic tools, real-time voice mentorship, and career automation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
